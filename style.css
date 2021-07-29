@@ -1,23 +1,23 @@
 h1 {
-    color: rgb(25, 119, 136);
+    color: rgb(243, 239, 23);
     text-align: center;
-    font-size: large;
+    font-size:  large;
   }
   
 h2 {
-    color: rgb(4, 2, 8);
+    color: rgb(243, 239, 23);
     text-align: left;
     font-size: large;
   }
 
 h3 {
-    color: rgb(4, 2, 8);
+    color: rgb(243, 239, 23);
     text-align: left;
     font-size: large;
   }
 
 h4 {
-    color: rgb(4, 2, 8);
+    color: rgb(243, 239, 23);
     text-align: left;
     font-size: large;
   }
@@ -38,3 +38,16 @@ h6 {
   .mobile-view{
       display: none;
   }
+
+  body img {
+    padding-left: 570px;
+    clear: none;
+}
+
+body {
+    background-image: url('file:///Users/jennykay/Downloads/field_flowers_white_156463_2560x1080.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
